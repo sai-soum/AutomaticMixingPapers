@@ -645,8 +645,238 @@
       "pdf" : "http://www.aes.org/e-lib/download.cfm/21022.pdf?ID=21022",
       "code" : "",
       "demo" : ""
+    },
+    {
+      "title" : "Music Mixing Style Transfer: A Contrastive Learning Approach to Disentangle Audio Effects",
+      "author" : "J. Koo , M. A. Martínez-Ramírez , W-H. Liao , S.Uhlich , K. Lee and Y. Mitsufuji",
+      "year" : 2023,
+      "category" : "Multiple",
+      "approach" : "ML",
+      "pdf" : "https://arxiv.org/abs/2211.02247",
+      "code" : "https://github.com/jhtonyKoo/music_mixing_style_transfer",
+      "demo" : "https://jhtonykoo.github.io/MixingStyleTransfer/"
+    },
+    {
+      "title" : "Automatic music mixing with deep learning and out-of-domain data",
+      "author" : "M. A. Martínez-Ramírez , W-H. Liao , G. Fabbro , S. Uhlich , C. Nagashima and Y. Mitsufuji",
+      "year" : 2022,
+      "category" : "Multiple",
+      "approach" : "ML",
+      "pdf" : "https://arxiv.org/abs/2208.11428",
+      "code" : "https://github.com/sony/FxNorm-automix",
+      "demo" : "https://marco-martinez-sony.github.io/FxNorm-automix/"
+    },
+    {
+      "title" : "Style Transfer of Audio Effects with Differentiable Signal Processing",
+      "author" : "C. J. Steinmetz , N. J. Bryan and J. D. Reiss",
+      "year" : 2022,
+      "category" : "Multiple",
+      "approach" : "ML",
+      "pdf" : "https://arxiv.org/abs/2207.08759",
+      "code" : "https://github.com/adobe-research/DeepAFx-ST",
+      "demo" : "https://csteinmetz1.github.io/DeepAFx-ST/"
+    },
+    {
+      "title" : "Diff-MST: Differentiable Mixing Style Transfer",
+      "author" : "S. S. Vanka , C. Steinmetz , J-B. Rolland , J. Reiss and G. Fazekas",
+      "year" : 2024,
+      "category" : "Multiple",
+      "approach" : "ML",
+      "pdf" : "https://arxiv.org/abs/2407.08889",
+      "code" : "https://github.com/sai-soum/Diff-MST",
+      "demo" : "https://sai-soum.github.io/projects/diffmst/"
+    },
+    {
+      "title" : "Blind Estimation of Audio Processing Graph",
+      "author" : "S. Lee , J. Park , S. Paik , K. Lee",
+      "year" : 2023,
+      "category" : "Multiple",
+      "approach" : "ML",
+      "pdf" : "https://arxiv.org/abs/2303.08610",
+      "code" : "https://sh-lee97.github.io/grafx/index.html",
+      "demo" : "https://sh-lee97.github.io/apg/"
+    },
+    {
+      "title" : "Searching For Music Mixing Graphs: A Pruning Approach",
+      "author" : "S. Lee , M. A. Martínez-Ramírez, W-H. Liao ,S. Uhlich, G. Fabbro, K. Lee and Y. Mitsufuji",
+      "year" : 2024,
+      "category" : "Multiple",
+      "approach" : "ML",
+      "pdf" : "https://arxiv.org/abs/2406.01049",
+      "code" : "https://sh-lee97.github.io/grafx/index.html",
+      "demo" : ""
+    },
+    {
+      "title" : "Automatic multitrack mixing with a differentiable mixing console of neural audio effects",
+      "author" : "C. J. Steinmetz , J. Pons , S. Pascual , J. Serrà",
+      "year" : 2020,
+      "category" : "Multiple",
+      "approach" : "ML",
+      "pdf" : "https://arxiv.org/abs/2010.10291",
+      "code" : "https://github.com/csteinmetz1/pymixconsole",
+      "demo" : "https://csteinmetz1.github.io/dmc-icassp2021/"
+    },
+    {
+      "title" : "Differentiable Signal Processing With Black-Box Audio Effects",
+      "author" : " M. A. Martínez Ramírez,  O. Wang ,  P. Smaragdis, and  N. J Bryan",
+      "year" : 2020,
+      "category" : "Multiple",
+      "approach" : "ML",
+      "pdf" : "https://ieeexplore.ieee.org/abstract/document/9415103",
+      "code" : "https://mchijmma.github.io/DeepAFx/",
+      "demo" : "https://mchijmma.github.io/DeepAFx/"
+    },
+    {
+      "title" : "Automatic DJ Transitions with Differentiable Audio Effects and Generative Adversarial Networks",
+      "author" : " B-Y. Chen, W-H. Hsu, W-H. Liao, M. A. Martínez Ramírez, Y. Mitsufuji, Y-H. Yang",
+      "year" : 2022,
+      "category" : "Multiple",
+      "approach" : "ML",
+      "pdf" : "https://ieeexplore.ieee.org/abstract/document/9746663",
+      "code" : "https://paulyuchen.com/djtransgan-icassp2022/",
+      "demo" : "https://paulyuchen.com/djtransgan-icassp2022/"
+    },
+    {
+      "title" : "Distortion Audio Effects: Learning How to Recover the Clean Signal",
+      "author" : " J. Imort , G. Fabbro , M. A. Martínez Ramírez , S. Uhlich , Y. Koyama and Y. Mitsufuji",
+      "year" : 2022,
+      "category" : "Distortion",
+      "approach" : "ML",
+      "pdf" : "https://arxiv.org/abs/2202.01664",
+      "code" : "",
+      "demo" : "https://joimort.github.io/distortionremoval/"
+    },
+    {
+      "title" : "Reverse engineering a nonlinear mix of a multitrack recording",
+      "author" : " J. T. Colonel and J. Reiss",
+      "year" : 2023,
+      "category" : "Multiple",
+      "approach" : "ML",
+      "pdf" : "https://aes2.org/publications/elibrary-page/?id=22234",
+      "code" : "",
+      "demo" : "https://jtcolonel.github.io/NonlinRevEng/"
+    },
+    {
+      "title" : "Reverse engineering of a recording mix with differentiable digital signal processing",
+      "author" : " J. T. Colonel and J. Reiss",
+      "year" : 2021,
+      "category" : "Multiple",
+      "approach" : "ML",
+      "pdf" : "https://pubs.aip.org/asa/jasa/article/150/1/608/606638",
+      "code" : "https://jtcolonel.github.io/RevEng/",
+      "demo" : ""
+    },
+    {
+      "title" : "Direct Design of Biquad Filter Cascades with Deep Learning by Sampling Random Polynomials",
+      "author" : " J. T. Colonel, C. J. Steinmetz, M. Michelen and J. D. Reiss",
+      "year" : 2022,
+      "category" : "Equalisation",
+      "approach" : "ML",
+      "pdf" : "https://ieeexplore.ieee.org/abstract/document/9747660",
+      "code" : "https://github.com/csteinmetz1/IIRNet",
+      "demo" : "https://csteinmetz1.github.io/IIRNet/"
+    },
+    {
+      "title" : "Approximating Ballistics in a Differentiable Dynamic Range Compressor",
+      "author" : " J. T. Colonel and J. D. Reiss",
+      "year" : 2022,
+      "category" : "Compression",
+      "approach" : "ML",
+      "pdf" : "https://aes2.org/publications/elibrary-page/?id=21915",
+      "code" : "",
+      "demo" : ""
+    },
+    {
+      "title" : "Exploring Preference for Multitrack Mixes Using Statistical Analysis of MIR and Textual Features",
+      "author" : " J. T. Colonel and J. D. Reiss",
+      "year" : 2019,
+      "category" : "Multiple",
+      "approach" : "Overview",
+      "pdf" : "https://aes2.org/publications/elibrary-page/?id=20549",
+      "code" : "",
+      "demo" : ""
+    },
+    {
+      "title" : "ST-ITO: Controlling Audio Effects For Style transfer with Inference-Time Optimization",
+      "author" : " C. J. Steinmetz, S. Singh, M.Comunità, I. Ibnyahya, S. Yuan, E. Benetos and J. D. Reiss",
+      "year" : 2024,
+      "category" : "Multiple",
+      "approach" : "ML",
+      "pdf" : "https://qmro.qmul.ac.uk/xmlui/bitstream/handle/123456789/98593/Benetos%20ST-ITO%3A%20Controlling%20audio%202024%20Accepted.pdf?sequence=2&isAllowed=y",
+      "code" : "https://github.com/csteinmetz1/st-ito",
+      "demo" : ""
+    },
+    {
+      "title" : "Deep learning for automatic mixing",
+      "author" : " C. J. Steinmetz, S. S. vanka, M. A. Martínez-Ramírez, G. Bromham",
+      "year" : 2022,
+      "category" : "Multiple",
+      "approach" : "ML",
+      "pdf" : "https://dl4am.github.io/tutorial/landing-page.html",
+      "code" : "https://github.com/csteinmetz1/automix-toolkit/tree/main",
+      "demo" : ""
+    },
+    {
+      "title" : "Differentiable Artificial Reverberation",
+      "author" : " S. Lee, H-S. Choi, and K. Lee. ",
+      "year" : 2022,
+      "category" : "Reverbration",
+      "approach" : "ML",
+      "pdf" : "https://dl.acm.org/doi/abs/10.1109/TASLP.2022.3193298",
+      "code" : "",
+      "demo" : "https://sh-lee97.github.io/DAR-samples/"
+    },
+    {
+      "title" : "High-Fidelity Noise Reduction with Differentiable Signal Processing",
+      "author" : " C. J. Steinmetz, T. Wahlter, JD. Reiss ",
+      "year" : 2023,
+      "category" : "Noise Reduction",
+      "approach" : "ML",
+      "pdf" : "https://arxiv.org/abs/2310.11364",
+      "code" : "",
+      "demo" : "https://tape.it/research/denoiser"
+    },
+    {
+      "title" : "Modeling Analog Dynamic Range Compressors using Deep Learning and State-space Models",
+      "author" : "H. Yin, G. Cheng, C. J. Steinmetz, R. Yuan, R. M. Stern, R. B. Dannenberg",
+      "year" : 2024,
+      "category" : "Compression",
+      "approach" : "ML",
+      "pdf" : "https://arxiv.org/abs/2403.16331",
+      "code" : "https://int0thewind.github.io/s4drc/",
+      "demo" : ""
+    },
+    {
+      "title" : "General Purpose Audio Effect Removal",
+      "author" : "M. Rice, C. J. Steinmetz, G. Fazekas, J. D. Reiss",
+      "year" : 2023,
+      "category" : "Multiple",
+      "approach" : "ML",
+      "pdf" : "https://arxiv.org/abs/2308.16177",
+      "code" : "https://csteinmetz1.github.io/RemFX",
+      "demo" : ""
+    },
+    {
+      "title" : "Modelling black-box audio effects with time-varying feature modulation",
+      "author" : "M. Communita, C. J. Steinmetz, H. Phan, J. D. Reiss",
+      "year" : 2023,
+      "category" : "Multiple",
+      "approach" : "ML",
+      "pdf" : "https://arxiv.org/abs/2211.00497",
+      "code" : "https://github.com/mcomunita/gcn-tfilm",
+      "demo" : "https://mcomunita.github.io/gcn-tfilm_page"
+    },
+    {
+      "title" : "Adoption of AI Technology in Music Mixing Workflow: An Investigation",
+      "author" : "S. S vanka, M. Safi, J-B. Rolland and G. Fazekas",  
+      "year" : 2023,
+      "category" : "Multiple",
+      "approach" : "Overview",
+      "pdf" : "https://aes2.org/publications/elibrary-page/?id=22060",
+      "code" : "",
+      "demo" : ""
     }
-  ],
+],
   "columns" : [
     {"year" : "Year"},
     {"title" : "Title"},
